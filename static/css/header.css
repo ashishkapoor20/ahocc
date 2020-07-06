@@ -1,0 +1,19 @@
+.masthead h1{
+    font-size: 30px;
+    font-weight:800;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    text-align: center;
+    color: #blue;
+    margin:30px;
+}
+.masthead img{
+	width:150px;
+	height:150px;
+}
+.scrollbar{
+  width: 90%;
+  height: 200px;
+  overflow-y: scroll;
+  scrollbar-color: rebeccapurple green;
+  scrollbar-width: thin;
+}
